@@ -47,7 +47,7 @@ local-chatbot/
 
 ⚙️ Setup Instructions
 1. Clone repository
-git clone https://github.com/your-username/local-chatbot.git
+git clone https://github.com/local-chatbot.git
 cd local-chatbot
 
 2. Create virtual environment
